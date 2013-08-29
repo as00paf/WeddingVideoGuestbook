@@ -20,7 +20,7 @@ import org.apache.http.protocol.BasicHttpContext;
 import org.apache.http.protocol.HttpContext;
 import org.json.JSONException;
 import org.json.JSONObject;
-import org.lingsync.elicitation.collection.R;
+import com.androidmontreal.weddingvideoguestbook.R;
 
 import android.app.IntentService;
 import android.app.Notification;

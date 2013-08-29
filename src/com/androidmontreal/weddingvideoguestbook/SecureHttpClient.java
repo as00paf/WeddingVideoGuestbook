@@ -10,7 +10,7 @@ import org.apache.http.conn.scheme.SchemeRegistry;
 import org.apache.http.conn.ssl.SSLSocketFactory;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.impl.conn.SingleClientConnManager;
-import org.lingsync.elicitation.collection.R;
+import com.androidmontreal.weddingvideoguestbook.R;
 
 import android.content.Context;
 

@@ -1,6 +1,6 @@
 package com.androidmontreal.weddingvideoguestbook;
 
-import org.lingsync.elicitation.collection.R;
+import com.androidmontreal.weddingvideoguestbook.R;
 
 import android.app.Activity;
 import android.app.AlertDialog;
